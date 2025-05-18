@@ -1,3 +1,5 @@
+/* Combinador hermano general */
+
 h2 ~ p {
     color: red;
 }

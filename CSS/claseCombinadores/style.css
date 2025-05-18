@@ -1,3 +1,5 @@
+/* Combinador hermano adyacente o cercano */
+
 h2 + p {
     color: red;
 }
